@@ -1,0 +1,4 @@
+Algorithm,Dataset Size,Data Profile,Comparisons,Swaps/Moves,Execution Time (ms)
+Bubble Sort,1000,Random,497154,248620,13.644
+Selection Sort,1000,Random,499500,995,1.28
+Insertion Sort,1000,Random,251913,250919,4.887
